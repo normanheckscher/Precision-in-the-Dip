@@ -1,6 +1,8 @@
 |
 
 Precision in the Dip: Improving True Thickness Calculation in Structurally Complex Coal Deposits
+==============
+|
 
 N.J. Heckscher & B.J. Saunders
 

@@ -39,13 +39,14 @@ Traditional stratigraphic modelling methods often fall short in addressing these
 Modelling seam roof and floor as independent surfaces often leads to inconsistencies in seam thickness and position, particularly in geologically complex areas requiring numerous, difficult-to-manage control strings or "phantom holes". Calculating thickness as the difference between two separate subjectively generated surfaces (as illustrated in Figure 1) can introduce significant inaccuracies, failing to honour the true geometric relationship between the surfaces.
 
 ![Figure 1: Cross section comparison of structural surfaces generated with traditional modelling techniques can be highly subjective.](images/Picture1.jpg)
+Figure 1: Cross section comparison of structural surfaces generated with traditional modelling techniques can be highly subjective.
 
 ### 2.3.2 Critique: Stacking Method\
 The Stacking method, which applies thickness grids to a reference surface, also struggles to accurately represent true stratigraphic thickness. This is especially problematic in areas with dipping strata and non-vertical boreholes (demonstrated in Figure 2), as the method can prioritise control string conformity or smoothing over precise, geometrically sound thickness calculations derived from borehole data.
 
 
 ![Figure 2:  Exploration drill strings tend to "wedge off" and deviate to intersect the sandstone/coal beds perpendicularly. Syncline and anticline structures can be subjectively interpreted and estimated from this deviation. Exploration holes are never perpendicular to a perfectly horizontal layer of coal. (adapted from Heckscher et al., 2024)](images/Picture2.jpg)
-
+Figure 2:  Exploration drill strings tend to "wedge off" and deviate to intersect the sandstone/coal beds perpendicularly. Syncline and anticline structures can be subjectively interpreted and estimated from this deviation. Exploration holes are never perpendicular to a perfectly horizontal layer of coal. (adapted from Heckscher et al., 2024)
 
 In summary, the Bowen Basin's complex geology (including steeply dipping strata, folding, faulting, and borehole deviation), coupled with the deficiencies of traditional modelling methods---such as in handling control data, addressing data sparsity, and accurately determining true stratigraphic thickness---demands more robust techniques. Reliable resource management thus requires methodologies that integrate diverse data and employ geometrically sound calculations.
 
@@ -92,9 +93,10 @@ Where: = horizontal distance between intersection points on the surface exposure
 Our proposed methodology rigorously applies these fundamental trigonometric principles, adapting them for subsurface borehole intercepts by utilising their 3D coordinates and local bedding orientation. This systematic, computationally-assisted determination of true thickness at each data point provides a more accurate and reliable foundation for subsequent stratigraphic modelling, leading to improved resource estimation and mine planning outcomes.
 
 ![Figure 3: Bedding is greater than the dip of the topography.](images/Picture3.jpg)
+Figure 3: Bedding is greater than the dip of the topography.
 
 ![Figure 4: Bedding is less than the dip of the topography.](images/Picture4.jpg)
-
+Figure 4: Bedding is less than the dip of the topography.
 
 4 Modelling Workflow
 ====================

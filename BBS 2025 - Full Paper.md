@@ -35,14 +35,14 @@ Parts of the Bowen Basin are characterised by complex geological features that p
 
 Traditional stratigraphic modelling methods often fall short in addressing these challenges effectively. Two common approaches are the Independent Surfaces method and the Stacking method.
 
-### 2.3.1 Critique: Independent Surfaces\
+### 2.3.1 Critique: Independent Surfaces
 Modelling seam roof and floor as independent surfaces often leads to inconsistencies in seam thickness and position, particularly in geologically complex areas requiring numerous, difficult-to-manage control strings or "phantom holes". Calculating thickness as the difference between two separate subjectively generated surfaces (as illustrated in Figure 1) can introduce significant inaccuracies, failing to honour the true geometric relationship between the surfaces.
 
 ![Figure 1: Cross section comparison of structural surfaces generated with traditional modelling techniques can be highly subjective.](images/Picture1.jpg)  
 
 Figure 1: Cross section comparison of structural surfaces generated with traditional modelling techniques can be highly subjective.
 
-### 2.3.2 Critique: Stacking Method\
+### 2.3.2 Critique: Stacking Method
 The Stacking method, which applies thickness grids to a reference surface, also struggles to accurately represent true stratigraphic thickness. This is especially problematic in areas with dipping strata and non-vertical boreholes (demonstrated in Figure 2), as the method can prioritise control string conformity or smoothing over precise, geometrically sound thickness calculations derived from borehole data.
 
 

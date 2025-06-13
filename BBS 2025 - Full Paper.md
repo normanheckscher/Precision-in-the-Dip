@@ -84,11 +84,11 @@ A foundational illustration of these principles is provided by Dennison (1968), 
 
 Bedding dip (δ) is greater than topography dip (α):
 
-t = |h cos α sin δ - v cos δ|  (1)
+t = |h cos α sin δ - v cos δ|      (1)
 
 Bedding dip (δ) is less than topography dip (α):
 
-t = h cos α sin δ + v cos δ  (2)
+t = h cos α sin δ + v cos δ      (2)
 
 Where: = horizontal distance between intersection points on the surface exposure; = angle between horizontal and topographic surface; = angle between horizontal & bedding plane (dip);  = vertical distance between intersection points.
 

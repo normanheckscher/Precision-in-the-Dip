@@ -93,8 +93,8 @@ Where:
 h = horizontal distance between intersection points on the surface exposure;  
 α = angle between horizontal and topographic surface;  
 δ = angle between horizontal & bedding plane (dip);  
-v = vertical distance between intersection points.\
-
+v = vertical distance between intersection points.  
+  
 Our proposed methodology rigorously applies these fundamental trigonometric principles, adapting them for subsurface borehole intercepts by utilising their 3D coordinates and local bedding orientation. This systematic, computationally-assisted determination of true thickness at each data point provides a more accurate and reliable foundation for subsequent stratigraphic modelling, leading to improved resource estimation and mine planning outcomes.
 
 ![Figure 3: Bedding is greater than the dip of the topography.](images/Picture3.jpg)  

@@ -1,4 +1,4 @@
-Precision in the dip: true thickness calculation for complex coal deposits
+# Precision in the dip: true thickness calculation for complex coal deposits
 
 N.J. Heckscher & B.J. Saunders
 
